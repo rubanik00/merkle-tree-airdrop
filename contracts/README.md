@@ -1,4 +1,4 @@
-# MerkleClaimERC20
+# AirdropToken
 
 ERC20 token claimable by members of a [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)
 
