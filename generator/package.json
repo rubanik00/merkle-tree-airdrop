@@ -1,0 +1,19 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "generate": "ts-node app.ts",
+    "generate-oz": "ts-node generatorOZ.ts"
+  },
+  "dependencies": {
+    "@openzeppelin/merkle-tree": "^1.0.7",
+    "@types/node": "^22.5.5",
+    "ethers": "^6.13.2",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
